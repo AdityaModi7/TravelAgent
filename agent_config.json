@@ -1,0 +1,5 @@
+{
+  "agent_id": "agent-5b2cf36d-f256-4c10-a78d-37916bc6d3ff",
+  "agent_name": "travel_planner_nano_1000",
+  "model": "openai/gpt-4o-mini"
+}
