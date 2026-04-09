@@ -1,0 +1,20 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+# IDE
+.vscode/
+.idea/
+.DS_Store
+# Results / outputs (optional - remove if you want to track these)
+results_*.json
